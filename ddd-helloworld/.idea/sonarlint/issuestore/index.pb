@@ -1,12 +1,7 @@
 
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-C
-src/HelloWorld.java,f\8\f8f6ccab2f71fc7c0dd6b506e31cb856f7a2fa2d
->
-src/Teste.java,8\0\8028726a8f56d4dbaf93cf3ab711a7d471956aea
->
-src/Livro.java,7\a\7a691ad67a83ac177bb68a623a61ceab0bcbd26d
-C
-src/TesteLivro.java,0\4\04aa3bf2c04a4be6e8438302f1feef6d8e6d009c
+@
+src/Receita.java,5\b\5bd30156861e5988f3d363ac72e20bfdfd6b61ca
+B
+src/Exercicio.java,0\8\082b3f3ec3f1f932e008cd40978ed43422526f67
+G
+src/TesteExercicio.java,4\b\4bcf6e3f035bdc09a2fd77112730b2940927d706
