@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculoImc/calculoImc.iml" filepath="$PROJECT_DIR$/calculoImc/calculoImc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp1_Marion/cp1_Marion.iml" filepath="$PROJECT_DIR$/cp1_Marion/cp1_Marion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-encapsulamento/ddd-encapsulamento.iml" filepath="$PROJECT_DIR$/ddd-encapsulamento/ddd-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-helloworld/ddd-helloworld.iml" filepath="$PROJECT_DIR$/ddd-helloworld/ddd-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-metodos/ddd-metodos.iml" filepath="$PROJECT_DIR$/ddd-metodos/ddd-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fiap-ddd-2026.iml" filepath="$PROJECT_DIR$/.idea/fiap-ddd-2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playLivros/playLivros.iml" filepath="$PROJECT_DIR$/playLivros/playLivros.iml" />
+    </modules>
+  </component>
+</project>
